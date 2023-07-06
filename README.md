@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adamantium7&label=Profile%20views&color=0e75b6&style=flat" alt="adamantium7" /> </p>
 
-- 🔭 I’m currently working on [Fitness Stats Discord Bot Powered by Strava](https://github.com/adamantium7/fitness-stats-bot-for-discord-powered-by-strava)
+- 🔭 I’m currently working on [Fitness Stats Bot for Discord Powered by Strava](https://github.com/adamantium7/fitness-stats-bot-for-discord-powered-by-strava)
 
 - 📫 How to reach me **homerf.ayuste@gmail.com**
 
