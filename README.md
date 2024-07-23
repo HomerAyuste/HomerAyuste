@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Homer</h1>
-<h3 align="center">A passionate computer science student at Wilfrid Laurier University</h3>
+<h3 align="center">A passionate computer science graduate from Wilfrid Laurier University</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adamantium7&label=Profile%20views&color=0e75b6&style=flat" alt="adamantium7" /> </p>
 
